@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align-"center">Hi there,I am Mahesh Kumar Panda 👋</h1>
+<a href-"https://www.nitk.ac.in" target-"_blank">🔭 I’m currently pursuing Masters</a>
+
+<strong>💬 Ask me about python,sql,statistics,Machine Learning,Mechanical Engineering</strong>
