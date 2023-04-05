@@ -1,6 +1,8 @@
+![MasterHead](https://user-images.githubusercontent.com/120241214/230121400-275055ec-a195-4db0-ba84-cc81883263e2.gif)
 
-![68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966](https://user-images.githubusercontent.com/120241214/230117088-c67582e3-8fc3-48da-bbf2-aaaaec983c41.gif)
 
+
+<p><img align="right"width="460" height="300" src=https://user-images.githubusercontent.com/120241214/230117088-c67582e3-8fc3-48da-bbf2-aaaaec983c41.gif></p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Kumar Panda</h1>
 <h3 align="center">I have a strong passion for machine learning</h3>
